@@ -1,18 +1,17 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Aedriane's Portfolio",
+		name: "Aedriane H.",
+		email: "mail@aedriane.au",
 		logo: "../logo.png",
 	},
 
 	socials: {
 		/*twitter: "https://twitter.com/",*/
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		github: "https://github.com/aedriane",
+		linkedin: "https://linkedin.com/aedriane",
+		instagram: "https://instagram.com/aejher",
+		stackoverflow: "https://stackoverflow.com/"
 	},
 
 	homepage: {

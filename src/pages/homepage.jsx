@@ -114,6 +114,7 @@ const Homepage = () => {
 						</div>
 
 						<div className="homepage-socials">
+						{/*
 							<a
 								href={INFO.socials.twitter}
 								target="_blank"
@@ -124,6 +125,7 @@ const Homepage = () => {
 									className="homepage-social-icon"
 								/>
 							</a>
+						*/}
 							<a
 								href={INFO.socials.github}
 								target="_blank"
@@ -134,6 +136,7 @@ const Homepage = () => {
 									className="homepage-social-icon"
 								/>
 							</a>
+						{/*
 							<a
 								href={INFO.socials.stackoverflow}
 								target="_blank"
@@ -144,6 +147,7 @@ const Homepage = () => {
 									className="homepage-social-icon"
 								/>
 							</a>
+						*/}
 							<a
 								href={INFO.socials.instagram}
 								target="_blank"
