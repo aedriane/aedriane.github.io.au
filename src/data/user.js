@@ -3,7 +3,7 @@ const INFO = {
 		title: "Aedriane's Portfolio",
 		name: "Aedriane H.",
 		email: "mail@aedriane.au",
-		logo: "../profile.png",
+		logo: "../profile.jpg",
 	},
 
 	socials: {
